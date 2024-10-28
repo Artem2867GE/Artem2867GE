@@ -2,7 +2,7 @@
 
 #### Frontend Developer | Tech Enthusiast | Lifelong Learner
 
-Welcome to my GitHub page! I'm a passionate Frontend Developer with a proven track record in the fintech industry. Over the past 2 years, I've been honing my skills in JavaScript/TypeScript, React, and Angular, delivering high-quality, scalable, and user-friendly web applications.
+Welcome to my GitHub page! I'm a passionate Frontend Developer with a proven track record in the fintech industry. Over the past 4 years, I've been honing my skills in JavaScript/TypeScript, React, and Angular, delivering high-quality, scalable, and user-friendly web applications.
 
 #### What I Do 🚀
 
